@@ -2,7 +2,7 @@
 🌱 I'm here to learn new things and record everything I've learned .. <br>
 ⚡  Github is my code log.
 
-Follow me:
+👉 Follow me on Github 
 
 Linus Torvalds: "Talk is cheap. Show me the code."
 
