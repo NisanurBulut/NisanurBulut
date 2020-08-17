@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Ben Nisanur Bulut... <br>
+🌱 Yeni şeyler öğrenmek ve her öğrendiğim herşeyi kaydetmek için buradayım.. <br>
+⚡ Github benim kod günlüğümdür.
+
+Beni takipte kalın :
+
+Linus Torvalds: "Talk is cheap. Show me the code."
+
+### I ❤️ Kodlama
 <!--
 **NisanurBulut/NisanurBulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
