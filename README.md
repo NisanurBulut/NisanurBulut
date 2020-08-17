@@ -1,15 +1,3 @@
-
-### 👋 Ben Nisanur Bulut...             <br>
-🌱 Yeni şeyler öğrenmek ve öğrendiğim herşeyi kaydetmek için buradayım..     <br>
-⚡ Github, benim kod günlüğümdür. 
-
-Beni takipte kalın :  
-
-Linus Torvalds: "Talk is cheap. Show me the code."
-
-### I ❤️ Kodlama
-
-
 ### 👋I'm Nisanur Bulut...       <br>
 🌱 I'm here to learn new things and record everything I've learned .. <br>
 ⚡  Github is my code log.
