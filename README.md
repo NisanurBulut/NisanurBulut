@@ -25,3 +25,8 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 ![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
+
+<hr>
+![Nisanur's github stats](https://github-readme-stats.vercel.app/api?username=NisanurBulut&show_icons=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NisanurBulut)
