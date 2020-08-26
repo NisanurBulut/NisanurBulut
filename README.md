@@ -1,8 +1,8 @@
 ### 👋I'm Nisanur Bulut      <br>
 🌱 I'm here to learn new things and record everything I've learned .. <br>
-⚡  Github is my code log.
+⚡  Github is my code log. 
 
-👉 Follow me on Github 
+👉 Follow me on [![GitHub Follow Badge](https://img.shields.io/github/followers/NisanurBulut?label=follow&style=social)](https://github.com/NisanurBulut)
 
 Linus Torvalds: "Talk is cheap. Show me the code."
 
