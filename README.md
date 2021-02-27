@@ -20,7 +20,7 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 ![CSharp](https://img.shields.io/badge/C%23-.NET%20CORE-green)
 ![Asp.NET MVC](https://img.shields.io/badge/C%23-Asp.Net%20MVC-blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1572B6?style=flat&logo=GraphQl&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
