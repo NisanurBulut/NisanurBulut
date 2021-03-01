@@ -22,7 +22,7 @@ Linus Torvalds: "Talk is cheap. Show me the code."
 ![HTML5](https://img.shields.io/badge/-NoSQL-E34F26?style=flat&logo=NoSQL&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-1572B6?style=flat&logo=GraphQl&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=ffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?style=flat&logo=javascript&labelColor=ffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 ![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
