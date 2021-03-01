@@ -11,7 +11,7 @@
 
 
 
-Linus Torvalds: "Talk is cheap. Show me the code."
+Linus Torvalds: <i>"Talk is cheap. Show me the code."</i>
 
 ### I ❤️ Clean Coding
 
