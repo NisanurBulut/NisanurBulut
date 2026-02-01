@@ -29,8 +29,8 @@ Linus Torvalds: <i>"Talk is cheap. Show me the code."</i>
 
 <p align="left">
 <a href="https://github.com/NisanurBulut">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=NisanurBulut&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="NisanurBulut"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NisanurBulut&show_icons=true&locale=en&layout=compact&langs_count=18" alt="NisanurBulut"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=NisanurBulut&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="NisanurAtay"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NisanurBulut&show_icons=true&locale=en&layout=compact&langs_count=18" alt="NisanurAtay"/>
 </a>
 </p>
 
