@@ -1,4 +1,4 @@
-### 👋I'm Nisanur Bulut      <br>
+### 👋I'm Nisanur Atay      <br>
 🌱 I'm here to learn new things and record everything I've learned .. <br>
 ⚡  Github is my code log. 
 
