@@ -15,7 +15,7 @@ Linus Torvalds: <i>"Talk is cheap. Show me the code."</i>
 
 ## 🏆 Certifications
 
-<a href="https://lnkd.in/dvsCqeiU">
+<a href="https://learn.microsoft.com/en-gb/users/nisanuratay-2203/credentials/2645d9922c0e38b3" target="_blank">
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://learn.github.com/assets/badge-ghf--AVHlfQC.png"
   alt="Nisanur Atay has successfully passed all requirements for GitHub Foundations"
   title="Nisanur Atay has successfully passed all requirements for GitHub Foundations"/></a>
