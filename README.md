@@ -9,16 +9,12 @@
 
 <a href="https://stackoverflow.com/users/6830001/nisanur"><img src="https://stackoverflow.com/users/flair/6830001.png" width="208" height="58" alt="profile for Nisanur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nisanur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> <br>
 
-
-
 Linus Torvalds: <i>"Talk is cheap. Show me the code."</i>
 
 ## 🏆 Certifications
-
-<a href="https://learn.microsoft.com/en-gb/users/nisanuratay-2203/credentials/2645d9922c0e38b3" target="_blank">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://learn.github.com/assets/badge-ghf--AVHlfQC.png"
-  alt="Nisanur Atay has successfully passed all requirements for GitHub Foundations"
-  title="Nisanur Atay has successfully passed all requirements for GitHub Foundations"/></a>
+<a href="https://learn.microsoft.com/en-gb/users/nisanuratay-2203/credentials/2645d9922c0e38b3">
+<img src="https://learn.github.com/assets/badge-ghf--AVHlfQC.png" width="180" alt="Nisanur Atay has successfully passed all requirements for GitHub Foundations" />
+</a>
 
 ### I ❤️ Clean Coding
 
