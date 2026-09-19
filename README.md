@@ -16,6 +16,10 @@ Linus Torvalds: <i>"Talk is cheap. Show me the code."</i>
 <img src="https://learn.github.com/assets/badge-ghf--AVHlfQC.png" width="180" alt="Nisanur Atay has successfully passed all requirements for GitHub Foundations" />
 </a>
 
+<a href="https://learn.microsoft.com/api/credentials/share/tr-tr/NisanurAtay-2203/7D717A270B29624B?sharingId=1743ED26D4A4F878">
+<img src="https://learn.microsoft.com/tr-tr/media/learn/certification/badges/github-copilot.svg" width="180" alt="Nisanur Atay has successfully passed all requirements for GitHub Copilot GH-300" />
+</a>
+
 ### I ❤️ Clean Coding
 
 
